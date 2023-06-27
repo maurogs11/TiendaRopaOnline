@@ -1,0 +1,12 @@
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Models\bin\Debug\net6.0\TiendaRopaOnline.Models.deps.json
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Models\bin\Debug\net6.0\TiendaRopaOnline.Models.dll
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Models\bin\Debug\net6.0\TiendaRopaOnline.Models.pdb
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Models\obj\Debug\net6.0\TiendaRopaOnline.Models.csproj.AssemblyReference.cache
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Models\obj\Debug\net6.0\TiendaRopaOnline.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Models\obj\Debug\net6.0\TiendaRopaOnline.Models.AssemblyInfoInputs.cache
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Models\obj\Debug\net6.0\TiendaRopaOnline.Models.AssemblyInfo.cs
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Models\obj\Debug\net6.0\TiendaRopaOnline.Models.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Models\obj\Debug\net6.0\TiendaRopaOnline.Models.dll
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Models\obj\Debug\net6.0\refint\TiendaRopaOnline.Models.dll
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Models\obj\Debug\net6.0\TiendaRopaOnline.Models.pdb
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Models\obj\Debug\net6.0\ref\TiendaRopaOnline.Models.dll

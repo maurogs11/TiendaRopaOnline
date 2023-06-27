@@ -1,0 +1,17 @@
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Business\bin\Debug\net6.0\TiendaRopaOnline.Business.deps.json
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Business\bin\Debug\net6.0\TiendaRopaOnline.Business.dll
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Business\bin\Debug\net6.0\TiendaRopaOnline.Business.pdb
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Business\obj\Debug\net6.0\TiendaRopaOnline.Business.csproj.AssemblyReference.cache
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Business\obj\Debug\net6.0\TiendaRopaOnline.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Business\obj\Debug\net6.0\TiendaRopaOnline.Business.AssemblyInfoInputs.cache
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Business\obj\Debug\net6.0\TiendaRopaOnline.Business.AssemblyInfo.cs
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Business\obj\Debug\net6.0\TiendaRopaOnline.Business.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Business\obj\Debug\net6.0\TiendaRopaOnline.Business.dll
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Business\obj\Debug\net6.0\refint\TiendaRopaOnline.Business.dll
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Business\obj\Debug\net6.0\TiendaRopaOnline.Business.pdb
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Business\obj\Debug\net6.0\ref\TiendaRopaOnline.Business.dll
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Business\bin\Debug\net6.0\TiendaRopaOnline.DataAccess.dll
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Business\bin\Debug\net6.0\TiendaRopaOnline.Models.dll
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Business\bin\Debug\net6.0\TiendaRopaOnline.DataAccess.pdb
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Business\bin\Debug\net6.0\TiendaRopaOnline.Models.pdb
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.Business\obj\Debug\net6.0\TiendaRopaOnline.Business.csproj.CopyComplete

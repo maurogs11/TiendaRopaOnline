@@ -1,0 +1,17 @@
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.DataAccess\bin\Debug\net6.0\TiendaRopaOnline.DataAccess.deps.json
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.DataAccess\bin\Debug\net6.0\TiendaRopaOnline.DataAccess.dll
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.DataAccess\bin\Debug\net6.0\TiendaRopaOnline.DataAccess.pdb
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.DataAccess\obj\Debug\net6.0\TiendaRopaOnline.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.DataAccess\obj\Debug\net6.0\TiendaRopaOnline.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.DataAccess\obj\Debug\net6.0\TiendaRopaOnline.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.DataAccess\obj\Debug\net6.0\TiendaRopaOnline.DataAccess.AssemblyInfo.cs
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.DataAccess\obj\Debug\net6.0\TiendaRopaOnline.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.DataAccess\obj\Debug\net6.0\TiendaRopaOnline.DataAccess.dll
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.DataAccess\obj\Debug\net6.0\refint\TiendaRopaOnline.DataAccess.dll
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.DataAccess\obj\Debug\net6.0\TiendaRopaOnline.DataAccess.pdb
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.DataAccess\obj\Debug\net6.0\ref\TiendaRopaOnline.DataAccess.dll
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.DataAccess\bin\Debug\net6.0\TiendaRopaOnline.DataAccess.runtimeconfig.json
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.DataAccess\obj\Debug\net6.0\TiendaRopaOnline.DataAccess.genruntimeconfig.cache
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.DataAccess\bin\Debug\net6.0\TiendaRopaOnline.Models.dll
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.DataAccess\bin\Debug\net6.0\TiendaRopaOnline.Models.pdb
+C:\Users\Mauro\source\repos\TiendaRopaOnline\TiendaRopaOnline.DataAccess\obj\Debug\net6.0\TiendaRopaOnline.DataAccess.csproj.CopyComplete

@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TiendaRopaOnline.Business",
+    "\\TiendaRopaOnline.DataAccess",
+    "\\TiendaRopaOnline.DataAccess\\DataContext",
+    "\\TiendaRopaOnline.DataAccess\\Repository",
+    "\\TiendaRopaOnline.Models",
+    "\\TiendaRopaOnline.Web"
+  ],
+  "SelectedNode": "\\TiendaRopaOnline.DataAccess\\Repository\\IBaseRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
